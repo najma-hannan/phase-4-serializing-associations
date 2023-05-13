@@ -6,4 +6,3 @@ class MovieSummarySerializer < ActiveModel::Serializer
   end
 
 end
-  
